@@ -57,7 +57,9 @@ else:
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+![363190883-41b339a2-e2d0-4b7c-bb67-528c6ca19a67](https://github.com/user-attachments/assets/b2c02a7c-afa8-4680-87a9-87a12d84efb1)
+
 
 
 ## Result:
